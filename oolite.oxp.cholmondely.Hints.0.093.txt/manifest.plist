@@ -1,0 +1,20 @@
+{
+	"identifier" = "oolite.oxp.Cholmondely.Hints";
+	"required_oolite_version" = "1.79";
+	"title" = "Hints";
+	"version" = "0.0.93";
+	"category" = "Activities";
+	"description" = "Hints in space stations: visit the bar and eavesdrop on experienced pilots";
+	"author" = "Cholmondely, Littlebear, Spara, Redspear, Hiran, Murgh and Cody";
+	"information_url" = "http://wiki.alioth.net/index.php/Hints OXP";
+	"license" = "in theory: CC BY-NC-SA 4 but in practice: Killer Wolf special";
+
+//	Not needed with BB's bar image:
+//
+//	"optional_oxps" = (
+//		{
+//			"identifier" = "oolite.oxp.Norby.HDBG";
+//			"description" = "HD Backgrounds";
+//		}
+//	);
+}

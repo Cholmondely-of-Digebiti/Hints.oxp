@@ -1,0 +1,19 @@
+{
+// This stuff is mostly Cholmondely's, chunks from Redspear, Cody & Avder, singular snippets from Hiran, Switeck, & the mighty Murgh
+// Set up your message list in descriptions like this:-
+
+	"hints_bar_gossip" =
+	(
+
+//Other advice
+	"Young frog to older couple: 'So, Uncle Ferdie, tell me about Rock Hermits! Jerry told me that there two things to remember - that they are usually off the beaten path, but that they are usually massive and can be seen from a distance'  \n{color:greenColor}
+	Older frog with gold monocle: 'Well, almost every system has at least one if not several. And they differ. Some sit on one of the space lanes, others not. Some are dangerous to approach - surrounded or guarded by pirates, others are just harmless miners.'  \n{color:yellowColor}
+	Young frog: 'My chum Switeck told me that you find them by looking for the movement of a distant point-of-light while whizzing around on torus and then you can initially spot them or other large stations'  \n{color:greenColor}
+	Older frog with monocle: 'If you see a ship heading away from the spacelane, it's probably en route to a rock hermit.'  \n{color:redColor}
+	Older frog with yellow cap: 'Some folk say they have a secret network, and control the black markets.'  \n{color:yellowColor}
+	Young frog: 'Those must be the pirate-infested ones then'  \n{color:redColor}
+	Older frog with yellow cap: 'I never heard that, but it seems a good guess...' ",
+
+);
+
+}

@@ -1,0 +1,101 @@
+{
+// This stuff is mostly Cholmondely's, chunks from Redspear, Cody & Avder, singular snippets from Hiran, Switeck, & the mighty Murgh
+// The code above is telling Oolite to randomly pick one of the messages you have set up in descriptions. So now set up your message list in descriptions like this:-
+
+	"hints_bar_gossip" =
+	(
+//Trade	
+	"
+	Bulbous batrachian in flight-suit: 'So what did you do after you graduated from Lave?' 
+	\n\n{color:redColor} 
+	Orange avian with spectacles and cap: 'Well I found a really good milk-run, Isinor to Qutiri. Both full of water - Isinor is liquid, Qutiri is solid. I made so much money I was able to buy up military lasers for both front and rear.' ",
+	"'Ensoreus to Ararus is a top notch milk run!' \n\n{color:redColor} 'No, no, Xexedi to Laenin is better - Laenin is much safer then Ararus.",
+
+	"Burly black feline speaking to a young tailed humanoid: 'Flying a cobra? Well, the Cargo Bay Expansion will help you almost double your profits! Just make sure you save up enough money both to buy it - and to fill it once you have bought it!' ",
+	
+	"You can get some really good deals at Rock Hermits if you can find them. The real mining hermits sell radioactives, minerals, gold, platinum and gems at super discounts. They don’t buy much - just food and drink and occasional bits of machinery, but if you can load up on cheap platinum, you can then offload it later in much better markets.",
+	"Buying fuel and equipment at Rock Hermits is jolly expensive - d’ye know they charge three times the going rate?",
+	
+	"There is just one problem with using docking computers. They can add up to twenty minutes to docking. Usually it doesn't matter, but if you are running a contract, it might just sink you.",
+	"I've never really found that those passenger contracts pay all that much. They give you a nice excuse to travel, but cargo contracts usually end up paying much better",
+	"Short woman bedecked in sparkling jewellery speaking to a large yellow rodent: 'I got rich doing parcel couriers and adding in the fur-computer swap between rich industrial and poor ag's on the way. One tip though, make sure you have fuel injectors added on, and also use the shortest route mode on the chart to help you plan your route. The reason for that being, ideally, you want at least a third a tank of fuel whenever you jump to a new system in case of an over-the-top ambush. If you do multiple contracts at once you will soon see what I mean.' ",
+
+
+	"'Have you heard? That Cody chap got paid well over seventy thousand credits for delivering a parcel contract over in Galaxy Seven?' \n\n{color:redColor} 'Yes, but a third of that was a bonus for early fulfillment' \n\n{color:yellowColor} 'It's still a lot of moolah for a small parcel' \n\n{color:redColor} 'But he will have spent years developing the reputation to get those sorts of contracts'",
+	"So I took one of those contracted deliveries. Lots of dosh for a long way to go. Blow me if the maintenance bills didn't take almost every penny I'd made... And if I had the maintenance done en-route - which would have been cheaper - I'd have fluffed the contract",
+	"If you're flying contracts, time is of the essence. You do know that lots of short hops take less time than the long hops, don't you? Just make sure that your maintenance is up-to-date before you do too many hops though!",
+
+//Equipment
+	"The very first thing I did when I got my new Cobra was shift the laser. I moved it from the front to the back. I'm useless at combat, and at least that way I can take pot shots at the pirates while I'm fleeing them.",
+	"Large blue insect at a table of other insects: 'Fuel. That stuff's so cheap that even when they're charging triple it's a bargain. Most folks know that it powers their injectors and limits their trade routes but it's also your ticket to get the hell out of trouble. Always a good idea to prep an escape route. Short jumps if you can. It's what you've got left in the tank, not left in the bank that will save you when you're out there.' ",
+	"Did you know you can hitch a ride through someone else's wormhole? Gives you much more options when you arrive... Of course, given that you might not know where the hell that is until you get there you might want to use one of them pretty quick too.",
+	"If you are going to get maintenance done, go to the highest TL system in the area - the maintenance will last much longer - and does not cost a penny more!",
+	"Old Johnny never made it to Zaonce. He left at Lave sure enough but at Zaonce witchpoint beacon, no sign of him... Some say it's the (lowers voice) 'Thargoids', say they can pull you right out of witchspace, or into witchspace depending on your point of view... Johnny never was one for keeping his ship maintenance up to date though, or for staying focused once he started a jump sequence...",
+	"So when I found my milk-run and started earning serious money, I started spending on my ship. What did I buy? Well, the first most crucial pieces of equipment are either fuel injectors - for avoiding trouble - or an enlarged cargo hold for earning more dosh. Your choice as to which makes more sense.",
+	"Bearded chap with a red spear logo on his jump suit: 'Oh sure, injectors are cool and all, a good investment for sure but they wouldn't be my first choice... See, when you've only got one piece of fancy-pantsy equipment on your boat then there's only one thing that's gonna get damaged, right? Repairing it is a good deal cheaper than buying a new one but you might end up wishing you'd invested in something a little more reliable... especially as it's useless when you're out of gas. My choice? A beam laser. Very reliable, a huge upgrade from the pulse and tough as old space boots. I've yet to hear of one breaking down... Just watch your fire kid, that thing shoots so fast you can overheat it before you've landed a single hit. But aim first, get a good bead and it'll soon be paying for itself in bounties.' ",
+	"The best way to use a military laser is as a one-shot gun. Wait until the hoodlums are in your sights and fire one shot. then do it again... that way you don't overheat the darned thing.",
+	"I found that the Extra Energy Unit made a massive difference when I got nobbled by the pirates. The improved recharge of my shields meant I was able to survive and get away with my cargo intact.",
+	"Shields are complicated bits of kit. There are two things you can do to improve them - either increase the rate of recharge, or increase their overall strength. Those Extra Energy Unit does one, the Shield Boosters do the other. And the Military Shield Enhancer does both!",
+	"Those naval energy units are really good which is why they are worth a fortune. If you're not in cahoots with the navy, the only way to get one usually is to buy a second-hand ship which already has one... and, boy, do they bump the price up!",
+	"Red feline speaking to a larger blue one: 'The Multi-Targeting System only makes sense if you set up your targets in advance, before you get into combat. Otherwise it's just a waste of time and money. All it does is allow you set up different targets for your different missiles. How many people are really going to need something like that?' ",
+	"It's also a really good idea to get good at combat against multiple targets at once.  Get the shield boosters and extra energy unit. An ECM unit is mandatory. Once you can afford it, you'll want the military shield boosters as well. When you are targeted and you either don't want to or can't run away, get close to them quickly so they furball around you.  As long as you don't fly straight they have a very hard time hitting you.  Only ever fly straight while you are firing your laser, and only fire when you are 100% on target.",
+
+
+//Pirate Tactics
+	"So you got scragged by the pirates again? You never learn, do you? When you arrive at the Witchpoint beacon turn ninety degrees or one-eighty degrees and scarper like billy-oh! Get out of there, and head away from the planet. You might meet the odd pirate or bounty hunter in the nastier systems, but there will be more empty space around and you should be able to flee - you do remember how to use your injectors, no? When you're ten seconds or so away, then turn and head towards the station, but not directly. That way you should easily avoid the pug-uglies. No mass-locks. No pirates. And don't cross the space-lane, whatever you do!",
+	"I just arrived at the witchpoint and found myself surrounded by some half-dozen pirates. I always carry some spare TC’s of food. I whizzed away from them, dropped a half-dozen and then turned 90 degrees and scrammed again. I got away - and had my the rest of my load of furs which I then off-loaded at the orbital for a good profit.",
+
+
+//Thargoid Tactics
+	"'So what's best? Clobber the Thargoids first - or go after the robot thargons?'\n\n{color:redColor} 'Well, it depends... If you are good enough to polish off the 'goids quickly, then the robots deactivate and you can just scoop them up for a profit. If not, they will be reactivated the moment another 'goid gets close. Oh! ...you usually get more dosh for the thargons in agricultural economies'",
+	"If you're gonna ram something, probably not a good idea to ram at injector speeds! Whenever my cargo is full and I come across a 'goid warship and end up with a bunch of unpowered fighters, I've found it's fastest to just ram them at full (non-injector) speed to kill them and pick up the 50 credit bounty. Costs like a few units of shield, which are regenerated within moments. If you ram one while at full injector speed you lose your whole shield, and that's with both the shield boosters and the military shield enhancement!",
+
+//Combat Tactics
+	"It’s all done with corkscrews. Move towards them in a corkscrew! Especially if you vary your speed, you’ll find that they can’t draw a bead on you and you can get in real close and then marmalise them.  And if you need to scram, and have the speed, corkscrew!",
+	"So there I was, surrounded by pirates. I hit the fuel injectors and whizzed over towards the sun. Only a couple of them were fast enough to follow, and the sun blinded them, so I was able to pick them off with my rear laser - I could see them, but they couldn't see me",
+	"Members of hit squads also tend to inject away when they get low on energy. Get good at sniping so you can kill them while they are running away. They'll be back in a minute after they've regenerated otherwise. They're cowards who refuse to meet their end with dignity, and it's entertaining to watch them beg for their lives.",
+	"Missiles are a waste of time unless you are only facing one or two opponents. The moment you are in a fight with half a dozen pirates, one of them is bound to have an ECM, and your missiles end up being as useful as confetti.",
+	"If you fire a missile when you are right up in front of a pirate, he’ll never have a chance to ECM it - just make sure he doesn’t do the same to you!",
+	"As far as missiles, it's up to preference. I've found that either the regular or ECM types realistically have a chance of a kill only against pirates. Against the hit squads, you can expect them to have injectors to outrun your missiles as well as an ECM. The only thing missiles are good for against them is to get them off your back for a while.",
+	"You could also start with quirium cascade mines, just make sure you don't launch them with vipers in range or you'll end up a fugitive potentially instantly. All your kills are recorded, remember?",
+	"For Giles's sake, whatever you do, don't use a Q-bomb unless you have fuel injectors and enough fuel left to scram! Far too many people get caught by their own Quirium bombs!",
+	"Those Quirium cascade bombs are most effective when detonated in an asteroid field. They zap the asteroids which then contribute to the effect. If you explode one in a dense enough asteroid field, then the whole shebang will exceed your scanner range and can last over a minute. Just make sure that you don't get caught in it yourself!",
+	"'Get lasers on your port and starboard sides. They come in very handy against ships that show you a generous amount of profile while flying next to you like the fer-de-lance, asp, and both types of cobra.' \n\n{color:redColor} 'But how do I use the wretched things?' \n\n{color:yellow}'Just remember that you will be steering up and down with roll instead of pitch while looking to either side of your ship.'",
+	"The best way to use a military laser is as a one-shot gun. Wait until the hoodlums are in your sights and fire one shot. then do it again... that way you don't overheat the darned thing.",
+	"So there I was, surrounded by pirates on all sides. I took out my Wheel of Destiny, invoked Saint Giles, kissed my Knucklebones of Negation and threw my throttle into full speed. With a slight corkscrew on my trajectory, I escaped. I've always tithed to the Church ever since.",
+
+//Other advice
+	"... anyway, as the jump countdown hit one, some nutter in a Ferdie ran right across my bow. I pulled up hard on the 'stick to avoid the bastard... next thing I know, the bloody klaxon's wailing, and I'm in ghastly glowing green interstellar space surrounded by 'goids!",
+	"Young frog to older couple: 'So, Uncle Ferdie, tell me about Rock Hermits! Jerry told me that there two things to remember - that they are usually off the beaten path, but that they are usually massive and can be seen from a distance'  \n{color:greenColor}
+	Older frog with gold monocle: 'Well, almost every system has at least one if not several. And they differ. Some sit on one of the space lanes, others not. Some are dangerous to approach - surrounded or guarded by pirates, others are just harmless miners.'  \n{color:yellowColor}
+	Young frog: 'My chum Switeck told me that you find them by looking for the movement of a distant point-of-light while whizzing around on torus and then you can initially spot them or other large stations'  \n{color:greenColor}
+	Older frog with monocle: 'If you see a ship heading away from the spacelane, it's probably en route to a rock hermit.'  \n{color:redColor}
+	Older frog with yellow cap: 'Some folk say they have a secret network, and control the black markets.'  \n{color:yellowColor}
+	Young frog: 'Those must be the pirate-infested ones then'  \n{color:redColor}
+	Older frog with yellow cap: 'I never heard that, but it seems a good guess...' ",
+
+//Flavour text
+	"Success in combat needs a lot of preparation. Personally, I meditate every morning and then take a bubblebath. I find that that makes all the difference.",
+	"Have you heard that guy's story about parallel universes connected via a nexus? I mean, which intelligent being would believe there is more than eight galaxies. Eight! What a smeghead!",
+	"'Looking for advice? Well, folks are gonna tell you all kinds of stuff but most of it's only half-true.'  \n\n{color:redColor} 'I mean half-true is something, right?...'  \n\n{color:yellowColor} 'What I'm trying to say is when you hear that, 'the best thing for so and so is X', or that, 'you really oughta be doing Y', you might just want to remember what I tell 'em...'  \n\n{color:redColor} 'Yeah, well, you know, that's just, like, your opinion, frog'.",
+	"Small green avian: 'Oh Dad, I'm so confused!'
+	\n\n{color:greenColor}
+	Large green avian: 'You just have to decide what kind of a creature you want to grow up to be, Gork; because whoever that creature is, a trader, a bounty hunter, a cargo contractor, a damn pirate or even a hermit... Just follow your path. This is the way things are. You can't change nature.'
+	\n\n{color:yellowColor}
+	'But change is nature, Dad. The part that we can influence. And it starts when we decide!'
+	\n\n{color:greenColor}
+	Scratches head: 'Now you're confusing me, son'",
+	"Chap in yellow jump suit with tattoos at table of women: 'Ever been to Digebiti? They are utter nuts over there! Into this wacky sport called extreme dominoes - which are bigger than you are. They sit on balconies telling their staff down below to throw these things at each other... You have to see it to believe it!'",
+	"Ceesxe is the leading centre for rejuve. I met a frog who was almost five hundred years old... he'd had five doses and looked as good as you or I. They say that it costs a pretty packet, though.",
+	"...they say there is some sort of secret naval base around Xeer. Doing research, new ships and weapons, that sort of thing. I bet you some of their kit has to be pretty good...",
+	"My daughter picked me up one of those Tionislan masks. I don't see how they can wear them all the time... they are so uncomfortable",
+	"Went to the opera last night. All about a black cat who lived in Qutiri yonks ago. Apparently she had to flee for the hills as all the others were turning themselves yellow! But stuck out like a sore thumb as she was black and the ice and snow were not. The tenor was top-notch...",
+	"When I visited Zarece, I was pottering around in one of the markets in a cloud city looking at some pots and minding my own business, when all of a sudden there was a riot! A bunch of lobsters hurtled past with an entire horde of rather fierce felines chasing after them. A lot of screeching, shouting and yelling. Most unseemly!",
+	"A decent cup of tea. That's all you need to really succeed at docking. Either a really good Fragrant Broken Orange Pekoe - or a decent tarry Lapsang Souchong.",
+	"This beer is utter bilge. I could do with a decent glass of wine. A Rexebian Richebourg or a Gequrian Cannubi.",
+	"Smallish green bespectacled rodent at a table of frogs: 'So, I've been reading Saint Phibo Nacci's book on Theological Arithmetics. Have you ever looked at it? It is quite something. There is an entire section analysing the colours of the loincloths of the demons who clobbered Ebortsa! Somehow it ties in with the underlying structure of the galaxy. But don't ask me how!' ",
+	"The 'music' is so loud that you can't even hear yourself think, nevermind hear what anybody else has to say!",
+	"You are evicted from the bar for not wearing a cravat",
+);
+
+}
